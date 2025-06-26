@@ -17,17 +17,6 @@ layout: post
 
 ---
 
-## 📋 Daftar Isi
-
-1. [🎯 Tentang Proyek](#-tentang-proyek)  
-2. [✨ Fitur Utama](#-fitur-utama)  
-3. [📱 Tampilan Aplikasi](#-tampilan-aplikasi)  
-4. [🛠️ Implementasi Teknis](#-implementasi-teknis)  
-5. [🧱 Teknologi yang Digunakan](#-teknologi-yang-digunakan)  
-6. [📚 Cara Memulai](#-cara-memulai)  
-7. [📝 Lisensi](#-lisensi)  
-
----
 
 ## 🎯 Tentang Proyek
 

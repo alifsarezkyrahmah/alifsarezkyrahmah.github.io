@@ -95,21 +95,28 @@ Codemy stands for Code Academy that online course platform is designed to provid
 2. Install PHP dependencies using Composer:
    ```bash
    composer install
+   ```
+
 3. Set up your .env file by copying .env.example:
    ```bash
    cp .env.example .env
+   ```
 4. Generate the application key:
    ```bash
    php artisan key:generate
+   ```
 5. Run the migrations to create the database schema:
    ```bash
    php artisan migrate --seed
+   ```
 6. Install the front-end dependencies:
    ```bash
    npm install
+   ```
 7. Serve the application:
    ```bash
    php artisan serve
+   ```
    
 ## Support
 

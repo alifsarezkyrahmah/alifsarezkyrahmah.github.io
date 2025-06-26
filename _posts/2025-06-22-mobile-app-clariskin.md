@@ -114,5 +114,5 @@ Aplikasi dikembangkan di Android Studio menggunakan pendekatan modular dan clean
 ### Instalasi
 
 ```bash
-git clone https://github.com/alifsarezkyrahmah/Clariskin-App.git
+git clone https://github.com/alifsarezkyrahmah/Clariskin.git
 ```

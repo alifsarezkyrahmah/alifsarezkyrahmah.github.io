@@ -3,7 +3,7 @@ title: Scraping Data Turtles with Frames & iFrames
 date: 2025-02-28
 categories: [Scraping]
 tags: [Scraping, BeautifulSoup, Requests, iFrames]
-permalink: "/daily/1"
+permalink: "/daily/3"
 layout: post
 ---
 

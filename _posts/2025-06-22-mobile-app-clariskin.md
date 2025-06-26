@@ -1,5 +1,6 @@
 ---
 title: Clariskin - Mobile App
+image : /assets/images/clariskin.png
 date: 2025-06-23
 categories: [Mobile App]
 tags: [Java, Android Studio, SQLite, Mobile App]

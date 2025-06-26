@@ -1,5 +1,6 @@
 ---
 title: Codemy - eCourse Website
+image : /assets/images/web1.png
 date: 2025-05-02
 categories: [Website]
 tags: [Website, Laravel, PHP, HTML, Tailwind CSS]

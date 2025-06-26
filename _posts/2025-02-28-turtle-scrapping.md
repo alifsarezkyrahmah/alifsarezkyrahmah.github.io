@@ -171,10 +171,10 @@ with open(csv_file_name, 'w', newline='', encoding='utf-8') as f:
     writer.writerows(all_turtles_data)
 ```
 
-![Before](/assets/lib/images/1.png)
+![Before](/assets/images/1.png)
 Data yang ingin disrapping
 
 
+![After](/assets/images/2.png)
 
-![After](/assets/lib/images/2.png)
 Data setelah discrapping
